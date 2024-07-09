@@ -1,0 +1,48 @@
+# Node.js
+/node_modules/
+npm-debug.log
+
+# Visual Studio Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Build/Output directories
+/build/
+/dist/
+/out/
+/target/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.swp
+
+# IDE/Editor files
+.idea/
+*.suo
+*.ntvs*
+*.njsproj.user
+
+# Dependency management files
+yarn.lock
+package-lock.json
+pipenv.lock
+Gemfile.lock
+
+# System-specific files
+.env
+
+# Generated files
+*.min.js
+*.min.css
+
+# Backup files
+*.bak
+*~
